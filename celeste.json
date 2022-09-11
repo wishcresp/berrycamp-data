@@ -2952,7 +2952,7 @@
             },
             "2": {
               "name": "Escape room",
-              "checkpointNo": 0,
+              "checkpointNo": 1,
               "defaultSpawn": {
                 "x": 8,
                 "y": 456
